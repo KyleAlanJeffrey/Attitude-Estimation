@@ -9,10 +9,10 @@ This was the final assignment for my ECE 167: Sensors and Systems course. We use
 - [Support](#support)
 
 ## Report
-<iframe src="Lab.pdf" width="100%" height="500px">
+<iframe src="./Lab.pdf" width="100%" height="500px">
 </iframe>
-<object data="Lab.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="Lab.pdf">
+<object data="./Lab.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="./Lab.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Lab.pdf">Download PDF</a>.</p>
     </embed>
 </object>
