@@ -6,27 +6,8 @@ This was the final assignment for my ECE 167: Sensors and Systems course. We use
 
 - [Lab Report](#report)
 - [Code Description](#description)
-- [Support](#support)
 
 ## Report
-<iframe src="./Lab.pdf" width="100%" height="500px">
-</iframe>
-<object data="./Lab.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="./Lab.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Lab.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
 
 ## Code Explanation
 
-Replace the contents of `README.md` with your project's:
-
-- Name
-- Description
-- Installation instructions
-- Usage instructions
-- Support instructions
-- Contributing instructions
-- Licence
-
-Feel free to remove any sections that aren't applicable to your project.
